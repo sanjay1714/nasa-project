@@ -1,0 +1,8 @@
+node_modules/
+dist/
+nasa-project/
+.env
+.env.*
+!.env.example
+.venv/
+venv/
